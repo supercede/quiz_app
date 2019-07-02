@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question": "Who is the president of Nigeria",
+      "options": {
+        "a": "Yahaya Bello",
+        "b": "Mohammadu Buhari",
+        "c": "Reinhard Bonnke",
+        "d": "Jaap Stam"
+      },
+      "answer": "Mohammadu Buhari"
+    },
+    {
+      "id": 1,
+      "question": "What is the longest river in the world",
+      "options": {
+        "a": "Nile",
+        "b": "Niger",
+        "c": "Mississippi",
+        "d": "Limpopo"
+      },
+      "answer": "Nile"
+    },
+    {
+      "id": 2,
+      "question": "How many continents are in the world",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "7",
+        "d": "6"
+      },
+      "answer": "7"
+    },
+    {
+      "id": 3,
+      "question": "One of the following is not a founder of Twitter",
+      "options": {
+        "a": "Jack Dorsey",
+        "b": "Alan Turing",
+        "c": "Evan Williams",
+        "d": "Biz Stone"
+      },
+      "answer": "Alan Turing"
+    },
+    {
+      "id": 4,
+      "question": "Google was founded in",
+      "options": {
+        "a": "1985",
+        "b": "1988",
+        "c": "1995",
+        "d": "1998"
+      },
+      "answer": "1998"
+    },
+    {
+      "id": 5,
+      "question": "Who designed JavaScript",
+      "options": {
+        "a": "Brendan Eich",
+        "b": "Larry Brin",
+        "c": "Jesse Lingard",
+        "d": "Wes Bos"
+      },
+      "answer": "Brendan Eich"
+    },
+    {
+      "id": 6,
+      "question": "One of the following is a code editor",
+      "options": {
+        "a": "Parentheses",
+        "b": "Commas",
+        "c": "Brackets",
+        "d": "Periods"
+      },
+      "answer": "Brackets"
+    },
+    {
+      "id": 7,
+      "question": "Who won the 1988 FIFA World Cup",
+      "options": {
+        "a": "Italy",
+        "b": "West Germany",
+        "c": "Soviet Union",
+        "d": "Brazil"
+      },
+      "answer": "Brazil"
+    },
+    {
+      "id": 8,
+      "question": "One of the following is not a JavaScript Framework",
+      "options": {
+        "a": "OctagonalJS",
+        "b": "SquareJS",
+        "c": "CircularJS",
+        "d": "PolygonJS"
+      },
+      "answer": "OctagonalJS"
+    },
+    {
+      "id": 9,
+      "question": "Steve Jobs died in",
+      "options": {
+        "a": "2009",
+        "b": "2008",
+        "c": "2011",
+        "d": "2010"
+      },
+      "answer": "2011"
+    }
+  ]
+}

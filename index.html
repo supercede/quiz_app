@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:400,500,700,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>My Quiz App</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <div class="intro">
+          <h1>Welcome, <span class="name"></span> to Destiny's Quiz App</h1>
+          <p class="lead-para">
+            There are 10 questions in this in this quiz. Do you think you have
+            got what is takes to get all 10 questions correctly?
+          </p>
+          <div class="button"><button class="btn start">Let's Go!</button></div>
+        </div>
+        <div class="quiz-container hidden">
+          <!-- <div class="question">
+            <div class="labels">
+              <label for="quiz"
+                >One of the following is not a JavaScript Framework</label
+              >
+            </div>
+            <ul style="list-style-type: none">
+              <li>
+                <input
+                  type="radio"
+                  name="quiz"
+                  value="OctagonalJS"
+                  id="OctagonalJS"
+                />
+                <label for="OctagonalJS">OctagonalJS</label>
+              </li>
+              <li>
+                <input
+                  type="radio"
+                  name="quiz"
+                  value="SquareJS"
+                  id="SquareJS"
+                />
+                <label for="SquareJS">SquareJS</label>
+              </li>
+              <li>
+                <input
+                  type="radio"
+                  name="quiz"
+                  value="CircularJS"
+                  id="CircularJS"
+                />
+                <label for="CircularJS">CircularJS</label>
+              </li>
+              <li>
+                <input
+                  type="radio"
+                  name="quiz"
+                  value="PolygonJS"
+                  id="PolygonJS"
+                />
+                <label for="PolygonJS">PolygonJS</label>
+              </li>
+            </ul>
+            <div class="button"><button class="btn submit">NEXT</button></div>
+          </div> -->
+        </div>
+        <div class="footer hidden">
+          <h1>
+            <span class="reward">Congratulations</span>
+            <span class="name"></span>
+          </h1>
+          <p class="lead-para">Your total score is <span id="score"></span></p>
+          <div class="button"><button class="btn home">Try Again</button></div>
+        </div>
+      </div>
+    </div>
+    <script src="appl.js"></script>
+  </body>
+</html>
