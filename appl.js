@@ -240,6 +240,7 @@ function init() {
   score = 0;
   quizzes = [...copy];
   numbers = [...nums];
+  name = prompt("Hello, what is your name?");
 }
 
 function startOver() {
